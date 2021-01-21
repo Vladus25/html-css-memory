@@ -19,11 +19,17 @@ header{
 }
 
 /* Main */
+.line{
+  margin: 0 auto;
+  width: 100%;
+  max-width: 820px;
 
+
+}
 
 .container{
+  vertical-align: bottom;
   position: relative;
-  left: 30%;
   width: 180px;
   height: 230px;
   background-color: white;
@@ -35,8 +41,18 @@ header{
   background-size: 90%;
 }
 
+.display{
+  color: white;
+}
+
 .tractor:hover{
+
+  font-family: ‘Nerko One’, cursive;
+  font-weight: bolder;
+  font-size: 40px;
+  color: orange;
+  text-align: center;
   background-image: url("../img/tractor.png");
   background-repeat: no-repeat;
-
+  background-position: center;
 }
