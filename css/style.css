@@ -41,15 +41,79 @@ header{
   background-size: 90%;
 }
 
+/* Carte con Imagini */
 
 .tractor:hover{
-
   font-family: ‘Nerko One’, cursive;
   font-weight: bolder;
-  font-size: 40px;
+  font-size: 30px;
   color: orange;
   text-align: center;
   background-image: url("../img/tractor.png");
   background-repeat: no-repeat;
   background-position: center;
+}
+
+.ballon:hover{
+  font-family: ‘Nerko One’, cursive;
+  font-weight: bolder;
+  font-size: 30px;
+  color: rgb(148, 40, 150);
+  text-align: center;
+  background-image: url("../img/balloon.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.submarine:hover{
+  font-family: ‘Nerko One’, cursive;
+  font-weight: bolder;
+  font-size: 30px;
+  color: rgb(232, 22, 22);
+  text-align: center;
+  background-image: url("../img/Submarine.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.cruise:hover{
+  font-family: ‘Nerko One’, cursive;
+  font-weight: bolder;
+  font-size: 30px;
+  color: rgb(74, 233, 19);
+  text-align: center;
+  background-image: url("../img/Cruise.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tram:hover{
+  font-family: ‘Nerko One’, cursive;
+  font-weight: bolder;
+  font-size: 30px;
+  color: rgb(209, 235, 0);
+  text-align: center;
+  background-image: url("../img/Tram.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bicycle:hover{
+  font-family: ‘Nerko One’, cursive;
+  font-weight: bolder;
+  font-size: 30px;
+  color: rgb(0, 236, 208);
+  text-align: center;
+  background-image: url("../img/Bicycle.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* footer */
+footer{
+  font-family: ‘Nerko One’, cursive;
+  font-weight: bolder;
+  font-size: 20px;
+  text-align: center;
+  margin: 40px 0;
 }
