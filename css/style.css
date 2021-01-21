@@ -35,3 +35,10 @@ span{
   background-image: url("../img/pattern.png");
   background-size: 90%;
 }
+
+
+.tractor:hover{
+  background-image: url("../img/tractor.png");
+  background-repeat: no-repeat;
+
+}
