@@ -4,15 +4,15 @@
   padding: 0;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap'); */
 
 body{
 background-color: rgb(172, 226, 252);
 }
 
 header{
-  font-family: ‘Nerko One’, cursive;
-  font-size: 30px;
+  font-family: 'Nerko One', cursive;
+  font-size: 40px;
   text-align: center;
   color: white;
   margin: 30px 0;
@@ -43,7 +43,7 @@ p{
 #esclusion{
   position: absolute;
   bottom: 0;
-  right: 40px;
+  right: 30px;
   visibility: visible;
 }
 
@@ -73,9 +73,9 @@ p{
   border: 1px solid white;
   background-image: url("../img/balloon.png");
   background-size: 90%;
-  font-family: ‘Nerko One’, cursive;
+  font-family: 'Nerko One', cursive;
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 40px;
   color: rgb(148, 40, 150);
   text-align: center;
   background-image: url("../img/balloon.png");
@@ -89,9 +89,9 @@ p{
 
 
 .tractor:hover{
-  font-family: ‘Nerko One’, cursive;
+  font-family: 'Nerko One', cursive;
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 40px;
   color: orange;
   text-align: center;
   background-image: url("../img/tractor.png");
@@ -104,9 +104,9 @@ p{
 }
 
 .ballon:hover{
-  font-family: ‘Nerko One’, cursive;
+  font-family: 'Nerko One', cursive;
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 40px;
   color: rgb(148, 40, 150);
   text-align: center;
   background-image: url("../img/balloon.png");
@@ -119,9 +119,9 @@ p{
 }
 
 .submarine:hover{
-  font-family: ‘Nerko One’, cursive;
+  font-family: 'Nerko One', cursive;
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 40px;
   color: rgb(232, 22, 22);
   text-align: center;
   background-image: url("../img/Submarine.png");
@@ -134,9 +134,9 @@ p{
 }
 
 .cruise:hover{
-  font-family: ‘Nerko One’, cursive;
+  font-family: 'Nerko One', cursive;
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 40px;
   color: rgb(74, 233, 19);
   text-align:center;
   background-image: url("../img/Cruise.png");
@@ -149,9 +149,9 @@ p{
 }
 
 .tram:hover{
-  font-family: ‘Nerko One’, cursive;
+  font-family: 'Nerko One', cursive;
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 40px;
   color: rgb(209, 235, 0);
   text-align: center;
   background-image: url("../img/Tram.png");
@@ -164,9 +164,9 @@ p{
 }
 
 .bicycle:hover{
-  font-family: ‘Nerko One’, cursive;
+  font-family: 'Nerko One', cursive;
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 40px;
   color: rgb(0, 236, 208);
   text-align: center;
   background-image: url("../img/Bicycle.png");
@@ -180,7 +180,7 @@ p{
 
 /* footer */
 footer{
-  font-family: ‘Nerko One’, cursive;
+  font-family: 'Nerko One', cursive;
   font-weight: bolder;
   font-size: 20px;
   text-align: center;
