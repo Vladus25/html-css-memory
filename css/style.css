@@ -32,4 +32,6 @@ span{
 .container{
   border-radius: 5%;
   border: 1px solid white;
+  background-image: url("../img/pattern.png");
+  background-size: 90%;
 }
