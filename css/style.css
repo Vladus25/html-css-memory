@@ -1,0 +1,33 @@
+/* Intestazioni generali di pagine */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+background-color: rgb(172, 226, 252);
+}
+
+header{
+  font-family: ‘Nerko One’, cursive;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  margin: 30px 0;
+}
+
+/* Main */
+span{
+  position: relative;
+  left: 27%;
+  width: 200px;
+  height: 250px;
+  background-color: white;
+  margin: 10px;
+  display: inline-block;
+}
+
+.container{
+  border-radius: 5%;
+  border: 1px solid white;
+}
